@@ -18,7 +18,7 @@
     <div class="header">
       <div class="footer">
         <div class="body">
-          <div id="sidebar"> <a href="index.html"><img id="logo" src="images/logo.gif" with="154" height="74" alt="" title=""/></a>
+          <div id="sidebar"> <a href="index.html"><img id="logo" src="http://saepul-millah.16mb.com/http://saepul-millah.16mb.comimages/logo.gif" with="154" height="74" alt="" title=""/></a>
             <ul class="navigation">
               <li><a  href="index.html">BERANDA</a></li>
               <li class="active"><a href="parsing.php">PARSING WEBSITE</a></li>
