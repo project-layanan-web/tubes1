@@ -22,7 +22,7 @@
 						<div class="footer">
 							<div class="body">
 									<div id="sidebar">
-									    <a href="index.html"><img id="logo" src="images/logo.gif" with="154" height="74" alt="" title=""/></a>
+									    <a href="index.html"><img id="logo" src="http://saepul-millah.16mb.com/images/logo.gif" with="154" height="74" alt="" title=""/></a>
 										
 										
 											<ul class="navigation">
